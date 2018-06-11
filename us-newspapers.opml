@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+    <opml version="2.0">
+	   <head>
+		<title>US Newspapers</title>
+		</head>
+    <body><outline text="Wall Street Journal" description="Wall Street Journal" language="english" title="Wall Street Journal" type="rss" version="RSS2" xmlUrl="http://www.wsj.com/xml/rss/3_7085.xml"/>
+<outline text="New York Post" description="New York Post" language="english" title="New York Post" type="rss" version="RSS2" xmlUrl="http://nypost.com/feed/"/>
+<outline text="New York Times" description="New York Times" language="english" title="New York Times" type="rss" version="RSS2" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+<outline text="Los Angeles Times" description="Los Angeles Times" language="english" title="Los Angeles Times" type="rss" version="RSS2" xmlUrl="http://www.latimes.com/rss2.0.xml"/>
+<outline text="Mercury News" description="Mercury News" language="english" title="Mercury News" type="rss" version="RSS2" xmlUrl="https://www.mercurynews.com/news/feed/"/>
+<outline text="USA Today" description="USA Today" language="english" title="USA Today" type="rss" version="RSS2" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"/>
+<outline text="New York Daily News" description="New York Daily News" language="english" title="New York Daily News" type="rss" version="RSS2" xmlUrl="http://www.nydailynews.com/cmlink/NYDN.News.rss"/>
+<outline text="Washington Post" description="Washington Post" language="english" title="Washington Post" type="rss" version="RSS2" xmlUrl="http://feeds.washingtonpost.com/rss/national"/>
+<outline text="Chicago Sun-Times" description="Chicago Sun-Times" language="english" title="Chicago Sun-Times" type="rss" version="RSS2" xmlUrl="https://chicago.suntimes.com/feed/"/>
+<outline text="Denver Post" description="Denver Post" language="english" title="Denver Post" type="rss" version="RSS2" xmlUrl="http://feeds.denverpost.com/dp-news-breaking"/>
+<outline text="Chicago Tribune" description="Chicago Tribune" language="english" title="Chicago Tribune" type="rss" version="RSS2" xmlUrl="http://www.chicagotribune.com/news/feeds/rss2.0.xml"/>
+<outline text="Newsday" description="Newsday" language="english" title="Newsday" type="rss" version="RSS2" xmlUrl="https://www.newsday.com/cmlink/1.1284732"/>
+<outline text="Houston Chronicle" description="Houston Chronicle" language="english" title="Houston Chronicle" type="rss" version="RSS2" xmlUrl="https://www.chron.com/rss/feed/News-270.php"/>
+<outline text="Orange County Register" description="Orange County Register" language="english" title="Orange County Register" type="rss" version="RSS2" xmlUrl="https://www.ocregister.com/news/feed/"/>
+<outline text="New Jersey Star-Ledger" description="New Jersey Star-Ledger" language="english" title="New Jersey Star-Ledger" type="rss" version="RSS2" xmlUrl="http://www.nj.com/news/rss.xml"/>
+<outline text="Tampa Bay Times" description="Tampa Bay Times" language="english" title="Tampa Bay Times" type="rss" version="RSS2" xmlUrl="http://www.tampabay.com/news/breaking/?template=rss3&amp;mime=xml"/>
+<outline text="Philadelphia Inquirer" description="Philadelphia Inquirer" language="english" title="Philadelphia Inquirer" type="rss" version="RSS2" xmlUrl="http://www.philly.com/philly_news.rss"/>
+<outline text="Star Tribune" description="Star Tribune" language="english" title="Star Tribune" type="rss" version="RSS2" xmlUrl="http://www.startribune.com/rss/?sf=1&amp;s=/"/>
+<outline text="The Arizona Republic" description="The Arizona Republic" language="english" title="The Arizona Republic" type="rss" version="RSS2" xmlUrl="http://rssfeeds.azcentral.com/phoenix/local"/>
+<outline text="Honolulu Star-Advertiser" description="Honolulu Star-Advertiser" language="english" title="Honolulu Star-Advertiser" type="rss" version="RSS2" xmlUrl="http://www.staradvertiser.com/feed/"/>
+<outline text="Las Vegas Review-Journal" description="Las Vegas Review-Journal" language="english" title="Las Vegas Review-Journal" type="rss" version="RSS2" xmlUrl="https://www.reviewjournal.com/feed/"/>
+<outline text="San Diego Union Tribune" description="San Diego Union Tribune" language="english" title="San Diego Union Tribune" type="rss" version="RSS2" xmlUrl="http://www.sandiegouniontribune.com/news/rss2.0.xml"/>
+    </body>
+	  </opml>
